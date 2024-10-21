@@ -1,0 +1,14 @@
+.watch{
+    border:2px solid seagreen;
+    padding: 10px;
+    border-radius: 16px;
+
+}
+.watch img{
+    border-radius: 10px;
+}
+.watch_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
